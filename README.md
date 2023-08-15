@@ -9,7 +9,7 @@ This project implements a language model-based text generator using the GPT-2 mo
 1. Install Python 3.x if not already installed.
 2. Set up a virtual environment (recommended) and activate it.
 3. Install project dependencies using pip: 
-    pip install tensorflow transformers
+    `pip install tensorflow transformers`
 
 ### Usage
 
