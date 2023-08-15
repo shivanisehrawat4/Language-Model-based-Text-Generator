@@ -13,12 +13,8 @@ This project implements a language model-based text generator using the GPT-2 mo
 
 ### Usage
 
-1. Clone this repository to your local machine: 
-    git clone https://github.com/yourusername/language-model-text-generator.git
-    cd language-model-text-generator
-
+1. Clone this repository to your local machine
 2. Open the `text_generator.py` script to explore and interact with the text generator functions.
-
 3. Run the script in your Python environment:
     python text_generator.py
 
